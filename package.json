@@ -1,6 +1,6 @@
 {
   "name": "peanuts",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "query multiple wallets for their balance",
   "main": "index.js",
   "dependencies": {
