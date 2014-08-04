@@ -1,0 +1,33 @@
+{
+  "name": "peanuts",
+  "version": "1.0.0",
+  "description": "query multiple wallets for their balance",
+  "main": "index.js",
+  "dependencies": {
+    "request": "~2.39.0"
+  },
+  "devDependencies": {
+    "hock": "~0.2.5",
+    "lab": "~3.2.3"
+  },
+  "scripts": {
+    "test": "lab test/*.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/robertkowalski/peanuts.git"
+  },
+  "homepage": "https://github.com/robertkowalski/peanuts",
+  "keywords": [
+    "litecoin",
+    "bitcoin",
+    "btc",
+    "ltc",
+    "wallet"
+  ],
+  "author": "Robert Kowalski <rok@kowalski.gd>",
+  "license": "BSD-2-Clause",
+  "bugs": {
+    "url": "https://github.com/robertkowalski/peanuts/issues"
+  }
+}
